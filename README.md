@@ -29,3 +29,6 @@ My first time I learn to code a bot trade.
 9. **Run the Bot**
    - The bot starts by calling `run_bot()`.
 
+Source: [russs123][def]
+
+[def]: https://github.com/russs123/trading_bot.git
